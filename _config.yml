@@ -1,2 +1,4 @@
+#theme: jekyll-theme-architect
+remote-theme: pietromenna/jekyll-architect-theme
 baseurl:"/blog"
 url:"https://sw-is-unmanageable.github.io"
